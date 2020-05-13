@@ -1,0 +1,27 @@
+ul li {
+    list-style: none;
+}
+
+.list{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+.listWrapper{
+    width: 50%;
+    margin: 100px 10px;
+    border: 1px solid black;
+
+}
+
+.flexWrapper{
+    display: flex;
+    background-color: white;
+}
+
+/* good one */
+/* .list :active{
+    display : block;
+    background-color: blue;
+} */
